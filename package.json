@@ -1,0 +1,14 @@
+{
+  "name": "tjms",
+  "version": "1.0.0",
+  "description": "Career Day presentation",
+  "main": "index.js",
+  "dependencies": {
+    "mdx-deck": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx"
+  }
+}
